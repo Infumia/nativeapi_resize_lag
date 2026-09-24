@@ -1,0 +1,24 @@
+name: nativeapi_resize_lag
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0
+
+environment:
+  sdk: ^3.13.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  nativeapi: 0.2.5
+  cnativeapi: 0.2.5
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
